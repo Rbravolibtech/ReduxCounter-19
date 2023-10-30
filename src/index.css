@@ -29,3 +29,11 @@ button:active {
 	color: rgb(250, 250, 250);
 	background-color: red;
 }
+
+.button2 {
+	background-color: orange;
+}
+
+.toggle {
+	background-color: green;
+}

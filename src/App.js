@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import { useSelector, UseSelector } from "react-redux";
+import { useSelector } from "react-redux";
 import Counter from "./components/Counter";
 import Header from "./components/Header";
 import Auth from "./components/Auth";
